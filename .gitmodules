@@ -1,0 +1,4 @@
+[submodule "LazyBonesLZ.github.io"]
+	path = LazyBonesLZ.github.io
+	url = https://github.com/LazyBonesLZ/LazyBonesLZ.github.io.git
+	branch = master
